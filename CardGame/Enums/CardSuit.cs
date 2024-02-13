@@ -5,4 +5,3 @@
         Diamonds,
         Spades
     }
-}
